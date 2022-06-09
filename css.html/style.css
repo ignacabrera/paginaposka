@@ -98,42 +98,6 @@
 }
 
 
-.circle1, .circle2, .circle3, .circle4, .circle5{
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    margin: 10px;
-    display: inline-block;
-} 
-
-.circle1{
-    
-    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-    transition: all 1.5s linear;
-    
-}
-.circle2:hover{
-    
-    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-    transition: all 1.5s ease-out;
-}
-.circle3{
-    
-    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-}
-
-.circle4{
-    
-    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-}
-.circle5{
-    
-    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-}
-
-
-
-
 
 .redesSociales{
    
