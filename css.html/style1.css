@@ -1,0 +1,83 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.gridContenedor{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+    padding: 20px;
+    grid-gap:10px;
+
+}
+
+.galeriaImagenes{
+   position: relative;
+   width: 100%;
+   grid-template-columns: repeat(3 , 1fr);
+   grid-auto-rows: 100px;
+}
+
+.galeriaTitulo1{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+.galeriaTitulo2{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+.galeriaTitulo3{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+.galeriaTitulo4{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+.galeriaTitulo5{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+.galeriaTitulo6{
+    position:relative;
+    bottom: 0%;
+    color: black;
+    font-family: Poppins;
+
+   
+
+}
+
+
+
+
+
+
+
+

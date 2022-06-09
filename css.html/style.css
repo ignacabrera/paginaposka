@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.imagenPrincipal{
+    background-image: url(../imagenes/pexels-pixabay-256514.jpg);
+    overflow: hidden;
+    height: 850px;
+    width: 100%;
+    opacity: 1;
+    visibility: inherit;
+}
+
+.logoPoska{
+    background-size: auto;
+       max-height: 2cm;
+       position:absolute;
+       top: 50px;
+       left: 15px;
+       opacity: 5;
+    
+}
+
+.tituloPrincipal{
+    color:white;
+    position: absolute;
+    font-family: Poppins;
+    font-size:55px;
+    text-shadow: 4px 4px 0px #1b9ad4;
+    top: 550px;
+    left: 900px;
+    font-weight: 700;
+    text-align: left;
+    width: 700px;
+
+}
+
+.tusIdeas{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+    text-align:center;
+    text-shadow:2px rgb(117, 197, 240);
+    width: 100%;
+    height: 300px;
+    font-family: Poppins;
+    font-size:80px;
+    padding-top: 180px;
+   text-shadow: 4px 4px 0px #ff7274;
+   
+    
+}
+
+.sobreNosotros{
+    background-image: url(../imagenes/diversas-personas-que-trabajan-oficina_53876-104681.webp);
+    height:1000px;
+    width:100%;
+}
+
+.parrafoNosotros{
+    
+    background-color: #1b9ad4;
+    width: 100%;
+    height:300px;
+    color: white;
+    font-family:'Roboto', sans-serif;
+    font-weight: 300;
+    font-size:35px;
+    text-align:center;
+    padding-top: 65px;
+    letter-spacing: 2px;
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    
+
+   
+    
+}
+
+.loQuehacemos,a{
+ 
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+    text-align:center;
+    text-shadow:2px rgb(117, 197, 240);
+    width: 100%;
+    height: 200px;
+    font-family: Poppins;
+    font-size:80px;
+    padding-top: 110px;
+   text-shadow: 4px 4px 0px #ff7274;
+   text-decoration:none;
+ 
+   
+}
+
+
+.circle1, .circle2, .circle3, .circle4, .circle5{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px;
+    display: inline-block;
+} 
+
+.circle1{
+    
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    transition: all 1.5s linear;
+    
+}
+.circle2:hover{
+    
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    transition: all 1.5s ease-out;
+}
+.circle3{
+    
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+}
+
+.circle4{
+    
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+}
+.circle5{
+    
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+}
+
+
+
+
+
+.redesSociales{
+   
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    
+    color: white;
+    text-align:center;
+    text-shadow:2px rgb(117, 197, 240);
+    width: 100%;
+    height: 50px;
+    font-family: Poppins;
+    font-size:20px;
+   text-shadow: 4px 4px 0px #ff7274;
+  padding-top: 30px;
+  
+}
+
+
+
+
+
+
+
