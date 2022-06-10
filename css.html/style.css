@@ -78,31 +78,34 @@
     
 }
 
-.loQuehacemos,a{
- 
-    background-color: black;
-    width: 100%;
-    height: 100px;
-    color: white;
-    text-align:center;
-    text-shadow:2px rgb(117, 197, 240);
-    width: 100%;
+.loQuehacemos{
+background-color: black;
+   width: 100%;
     height: 200px;
+    text-align: center;
     font-family: Poppins;
-    font-size:80px;
-    padding-top: 110px;
-   text-shadow: 4px 4px 0px #ff7274;
+    font-size:40px;
+   text-shadow: 3px 3px 0px #ff7274;
    text-decoration:none;
- 
-   
+
+
 }
 
-
+.botonAdelante{
+    display:grid ;
+    position: relative;
+     background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    border-radius: 20px;
+    width: 400px;
+    height: 70px;
+    top:60px;
+    left: 600px;
+    text-decoration: none;
+}
 
 .redesSociales{
    
     background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
-    
     color: white;
     text-align:center;
     text-shadow:2px rgb(117, 197, 240);

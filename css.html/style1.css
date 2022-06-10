@@ -4,19 +4,14 @@
 }
 
 .gridContenedor{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 100px;
-    padding: 20px;
-    grid-gap:10px;
-
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    width: 100%;
+    height: auto;
 }
 
 .galeriaImagenes{
    position: relative;
    width: 100%;
-   grid-template-columns: repeat(3 , 1fr);
-   grid-auto-rows: 100px;
 }
 
 .galeriaTitulo1{
@@ -24,7 +19,8 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
-
+    text-align: center;
+    bottom: 30px;
    
 
 }
@@ -33,6 +29,9 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
+    text-align: center;
+    bottom: 30px;
+   
 
    
 
@@ -42,6 +41,9 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
+    text-align: center;
+    bottom: 30px;
+   
 
    
 
@@ -51,6 +53,9 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
+    text-align: center;
+    bottom: 30px;
+   
 
    
 
@@ -60,6 +65,9 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
+    text-align: center;
+    bottom: 30px;
+   
 
    
 
@@ -69,11 +77,74 @@
     bottom: 0%;
     color: black;
     font-family: Poppins;
-
+    text-align: center;
+    bottom: 30px;
    
 
 }
 
+.volverAtras{
+    display: flex;
+    position:relative;
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(315deg, #09c7fb 0%, #93fb9d 74%);
+    font size: 80px;
+    text-shadow: 2px 2px 0px #ff7274;
+    font-family: Poppins;
+    font-size:25px;
+}
+
+.botonAtras{
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+
+
+.imagenUno{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+
+}
+
+.imagenDos{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+
+}
+
+.imagenTres{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+}
+
+.imagenCuatro{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+}
+
+.imagenCinco{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+}
+
+.imagenSeis{
+    display: flex;
+    position:relative;
+    width: 100%;
+    margin: 40px;
+}
 
 
 
